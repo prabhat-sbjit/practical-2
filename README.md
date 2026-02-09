@@ -22,8 +22,5 @@
 <pre><p>            Fresher
             6 months internship at Infosis 
 </p></pre>
-    <h4><pre><section>            Skills</section></h4></pre>
-<pre><p>            C, C++, Java, Python,
-            HTML, CSS, JavaScript</p></pre>
 </body>
 </html>
