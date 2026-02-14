@@ -22,5 +22,6 @@
 <pre><p>            Fresher
             6 months internship at Infosis 
 </p></pre>
+        <h3><pre><footer>            Thank You</footer></pre></h3>
 </body>
 </html>
