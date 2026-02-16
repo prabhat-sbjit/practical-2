@@ -1,4 +1,4 @@
-# practical-1
+# practical-2
 <!DOCTYPE html>
 <html lang="en">
 <head>
